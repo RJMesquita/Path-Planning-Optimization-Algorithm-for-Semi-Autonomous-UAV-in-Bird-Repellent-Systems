@@ -1,1 +1,0 @@
-# Path-Planning-Optimization-Algorithm-for-Semi-Autonomous-UAV-in-Bird-Repellent-Systems
