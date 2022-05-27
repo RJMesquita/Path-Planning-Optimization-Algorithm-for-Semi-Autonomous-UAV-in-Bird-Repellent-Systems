@@ -25,7 +25,7 @@ execution time, being suited for this and other applications.
 * Bird damage to fruit crops; 
 * Unmanned Aerial Vehicles; 
 * Path Planning; 
-* Meta-Heuristic; P
+* Meta-Heuristic; 
 * Path Planning Optimization Algorithm;
 
 ## Global Architecture
